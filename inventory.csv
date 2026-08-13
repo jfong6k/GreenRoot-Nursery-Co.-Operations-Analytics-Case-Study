@@ -1,0 +1,62 @@
+sku,product_name,category,avg_daily_demand_60d,lead_time_days,safety_stock,reorder_point,on_hand_units,supplier_region
+SKU1000,Fruit Tree Variety 1,Fruit Trees,5.43,14,45.5,121.6,189,Southeast
+SKU1001,Fruit Tree Variety 2,Fruit Trees,4.9,10,20.0,69.0,116,Midwest
+SKU1002,Fruit Tree Variety 3,Fruit Trees,4.85,14,34.5,102.4,184,Texas
+SKU1003,Fruit Tree Variety 4,Fruit Trees,4.13,14,24.7,82.6,49,Southeast
+SKU1004,Fruit Tree Variety 5,Fruit Trees,5.18,14,40.9,113.5,159,Pacific NW
+SKU1005,Fruit Tree Variety 6,Fruit Trees,4.45,21,54.5,148.0,193,Southeast
+SKU1006,Fruit Tree Variety 7,Fruit Trees,4.7,10,22.9,69.9,77,Texas
+SKU1007,Fruit Tree Variety 8,Fruit Trees,5.42,10,18.7,72.9,95,Midwest
+SKU1008,Fruit Tree Variety 9,Fruit Trees,4.82,7,10.4,44.1,65,Texas
+SKU1009,Fruit Tree Variety 10,Fruit Trees,5.55,7,16.5,55.4,55,Pacific NW
+SKU1010,Fruit Tree Variety 11,Fruit Trees,4.95,10,17.3,66.8,23,Texas
+SKU1011,Shade Tree Variety 1,Shade Trees,3.78,10,15.4,53.2,59,Southeast
+SKU1012,Shade Tree Variety 2,Shade Trees,3.83,7,13.0,39.8,12,Southeast
+SKU1013,Shade Tree Variety 3,Shade Trees,3.57,14,29.0,78.9,81,Southeast
+SKU1014,Shade Tree Variety 4,Shade Trees,3.47,7,12.6,36.9,60,Texas
+SKU1015,Shade Tree Variety 5,Shade Trees,3.9,7,10.0,37.3,64,Southeast
+SKU1016,Shade Tree Variety 6,Shade Trees,3.58,7,10.3,35.4,18,Southeast
+SKU1017,Shade Tree Variety 7,Shade Trees,3.62,14,27.1,77.7,81,Pacific NW
+SKU1018,Shade Tree Variety 8,Shade Trees,3.7,7,8.9,34.8,49,Texas
+SKU1019,Flowering Shrub Variety 1,Flowering Shrubs,4.3,14,32.7,92.9,87,Texas
+SKU1020,Flowering Shrub Variety 2,Flowering Shrubs,5.45,14,23.9,100.2,159,Pacific NW
+SKU1021,Flowering Shrub Variety 3,Flowering Shrubs,4.75,10,26.9,74.4,132,Pacific NW
+SKU1022,Flowering Shrub Variety 4,Flowering Shrubs,4.33,7,9.4,39.7,22,Texas
+SKU1023,Flowering Shrub Variety 5,Flowering Shrubs,4.98,14,29.0,98.8,30,Midwest
+SKU1024,Flowering Shrub Variety 6,Flowering Shrubs,4.37,10,14.1,57.8,53,Texas
+SKU1025,Flowering Shrub Variety 7,Flowering Shrubs,4.78,7,14.1,47.6,73,Southeast
+SKU1026,Flowering Shrub Variety 8,Flowering Shrubs,5.1,7,18.0,53.7,80,Midwest
+SKU1027,Flowering Shrub Variety 9,Flowering Shrubs,4.45,10,25.8,70.3,108,Texas
+SKU1028,Flowering Shrub Variety 10,Flowering Shrubs,5.3,14,43.7,117.9,57,Southeast
+SKU1029,Flowering Shrub Variety 11,Flowering Shrubs,5.33,14,31.1,105.8,80,Midwest
+SKU1030,Flowering Shrub Variety 12,Flowering Shrubs,4.43,10,23.9,68.2,40,Southeast
+SKU1031,Flowering Shrub Variety 13,Flowering Shrubs,4.9,14,35.5,104.1,39,Texas
+SKU1032,Privacy Hedge Variety 1,Privacy Hedges,4.27,10,20.2,62.9,92,Pacific NW
+SKU1033,Privacy Hedge Variety 2,Privacy Hedges,4.38,14,27.6,89.0,63,Texas
+SKU1034,Privacy Hedge Variety 3,Privacy Hedges,4.55,10,19.4,64.9,93,Midwest
+SKU1035,Privacy Hedge Variety 4,Privacy Hedges,4.87,14,32.8,100.9,115,Southeast
+SKU1036,Privacy Hedge Variety 5,Privacy Hedges,5.25,7,12.6,49.4,44,Pacific NW
+SKU1037,Privacy Hedge Variety 6,Privacy Hedges,4.73,10,20.4,67.7,88,Midwest
+SKU1038,Privacy Hedge Variety 7,Privacy Hedges,5.25,10,17.1,69.6,57,Midwest
+SKU1039,Privacy Hedge Variety 8,Privacy Hedges,4.52,10,21.7,66.9,95,Texas
+SKU1040,Privacy Hedge Variety 9,Privacy Hedges,4.53,14,20.6,84.1,134,Southeast
+SKU1041,Houseplant Variety 1,Houseplants,6.13,7,20.9,63.8,77,Southeast
+SKU1042,Houseplant Variety 2,Houseplants,6.13,7,19.0,61.9,51,Pacific NW
+SKU1043,Houseplant Variety 3,Houseplants,6.05,10,31.6,92.1,62,Pacific NW
+SKU1044,Houseplant Variety 4,Houseplants,6.25,14,49.2,136.7,201,Texas
+SKU1045,Houseplant Variety 5,Houseplants,6.2,10,26.3,88.3,44,Pacific NW
+SKU1046,Houseplant Variety 6,Houseplants,6.45,14,32.0,122.3,105,Texas
+SKU1047,Houseplant Variety 7,Houseplants,5.97,21,72.4,197.7,341,Southeast
+SKU1048,Houseplant Variety 8,Houseplants,6.67,10,26.7,93.4,133,Texas
+SKU1049,Houseplant Variety 9,Houseplants,6.43,10,29.3,93.6,104,Pacific NW
+SKU1050,Houseplant Variety 10,Houseplants,6.52,10,21.5,86.7,69,Southeast
+SKU1051,Houseplant Variety 11,Houseplants,6.15,7,13.2,56.2,19,Texas
+SKU1052,Houseplant Variety 12,Houseplants,6.58,10,31.6,97.4,146,Texas
+SKU1053,Succulent Variety 1,Succulents,8.67,7,24.8,85.5,88,Pacific NW
+SKU1054,Succulent Variety 2,Succulents,9.28,7,22.5,87.5,140,Pacific NW
+SKU1055,Succulent Variety 3,Succulents,9.0,7,22.3,85.3,91,Texas
+SKU1056,Succulent Variety 4,Succulents,8.33,10,48.7,132.0,150,Pacific NW
+SKU1057,Succulent Variety 5,Succulents,8.48,7,20.0,79.4,54,Texas
+SKU1058,Succulent Variety 6,Succulents,9.02,7,27.6,90.7,63,Pacific NW
+SKU1059,Succulent Variety 7,Succulents,8.47,10,27.4,112.1,107,Pacific NW
+SKU1060,Succulent Variety 8,Succulents,9.03,14,72.1,198.6,320,Midwest
